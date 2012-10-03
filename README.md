@@ -1,4 +1,11 @@
-# Puppet onepassword for Boxen
+# 1Password Puppet Module for Boxen
 
-FIXME: update me bro
+Requires the following boxen modules:
 
+* `boxen`
+
+## Usage
+
+```puppet
+include onepassword
+```
