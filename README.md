@@ -1,11 +1,12 @@
 # 1Password Puppet Module for Boxen
 
-Requires the following boxen modules:
-
-* `boxen`
-
 ## Usage
 
 ```puppet
 include onepassword
 ```
+
+## Required Puppet Modules
+
+* boxen
+* stdlib
