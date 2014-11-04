@@ -3,7 +3,7 @@
 #
 # Usage:
 #
-#     include 1password
+#     include onepassword
 class onepassword {
   $host = 'd13itkw33a7sus.cloudfront.net'
   $path = 'dist/1P/mac4/1Password-5.0.1.zip'
